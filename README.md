@@ -33,6 +33,8 @@
 
 ### 1. 技能列表从英文变成中文
 
+![技能列表中文化效果](./assets/feature-list-localization.png)
+
 | 原始英文 | 中文显示 |
 | --- | --- |
 | `frontend-design` | `前端设计` |
@@ -42,6 +44,8 @@
 | `playwright` | `Playwright 自动化` |
 
 ### 2. 每个技能文件夹自动生成说明文件
+
+![技能作用说明文件效果](./assets/feature-folder-note.png)
 
 ```txt
 技能名称：前端设计
@@ -54,6 +58,8 @@
 ```
 
 ### 3. 更适合中国用户的使用方式
+
+![自动后台同步效果](./assets/feature-auto-sync.png)
 
 - 不用反复猜英文技能名称的意思
 - 不用一个个打开 `SKILL.md` 才知道用途
