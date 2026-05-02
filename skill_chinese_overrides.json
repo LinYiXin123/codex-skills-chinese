@@ -1,0 +1,58 @@
+{
+  "skills": {
+    "browser": {
+      "display_name": "浏览器控制",
+      "short_description": "控制 Codex 内置浏览器并测试页面"
+    },
+    "build-chatgpt-app": {
+      "display_name": "构建 ChatGPT 应用",
+      "short_description": "搭建和脚手架生成 ChatGPT 应用"
+    },
+    "chatgpt-app-submission": {
+      "display_name": "ChatGPT 应用提交流程",
+      "short_description": "生成提交审核所需的应用信息文件"
+    },
+    "documents": {
+      "display_name": "文档",
+      "short_description": "创建和编辑文档文件"
+    },
+    "github": {
+      "display_name": "GitHub",
+      "short_description": "查看仓库、PR、Issue 和 CI"
+    },
+    "presentations": {
+      "display_name": "演示文稿",
+      "short_description": "创建和编辑演示文稿幻灯片"
+    },
+    "spreadsheets": {
+      "display_name": "电子表格",
+      "short_description": "创建和编辑电子表格或 Excel 文件"
+    }
+  },
+  "plugins": {
+    "browser-use": {
+      "displayName": "浏览器使用",
+      "shortDescription": "在 Codex 中控制内置浏览器"
+    },
+    "chatgpt-apps": {
+      "displayName": "ChatGPT 应用工具",
+      "shortDescription": "构建和提交 ChatGPT 应用"
+    },
+    "documents": {
+      "displayName": "文档",
+      "shortDescription": "创建和编辑文档工件"
+    },
+    "github": {
+      "displayName": "GitHub 工具",
+      "shortDescription": "在 Codex 中使用 GitHub 相关工具"
+    },
+    "presentations": {
+      "displayName": "演示文稿",
+      "shortDescription": "创建和编辑演示文稿工件"
+    },
+    "spreadsheets": {
+      "displayName": "电子表格",
+      "shortDescription": "创建和编辑电子表格工件"
+    }
+  }
+}

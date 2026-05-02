@@ -1,0 +1,5 @@
+__pycache__/
+logs/
+*.pyc
+skill_chinese_state.json
+skill_chinese_watch.lock
